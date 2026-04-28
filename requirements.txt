@@ -1,0 +1,7 @@
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+pyttsx3>=2.90
+Pillow>=9.0.0
+python-dotenv>=1.0.0
+flask>=3.0.0
+folium>=0.17.0
